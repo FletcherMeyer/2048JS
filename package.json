@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "2048",
+  "version": "1.0.0",
+  "description": "Simple browser game made in JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fletcher Meyer",
+  "license": "ISC",
+  "dependencies": {
+    "2048": "file:"
+  }
+}
